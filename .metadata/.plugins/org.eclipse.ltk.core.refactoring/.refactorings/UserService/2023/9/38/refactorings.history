@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.example.demo.service.UserDetailService&apos; to &apos;CustomUserDetailService&apos;&#x0D;&#x0A;- Original project: &apos;UserService&apos;&#x0D;&#x0A;- Original element: &apos;com.example.demo.service.UserDetailService&apos;&#x0D;&#x0A;- Renamed element: &apos;com.example.demo.service.CustomUserDetailService&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserDetailService&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.service{UserDetailService.java[UserDetailService" matchStrategy="1" name="CustomUserDetailService" qualified="false" references="true" similarDeclarations="false" stamp="1695276346998" textual="false" version="1.0"/>
+</session>
